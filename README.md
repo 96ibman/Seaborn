@@ -20,12 +20,6 @@ Python, Statistical Analysis, Exploratory  Data Analysis, matplotlib, seaborn, p
 - [@96ibman](https://www.github.com/96ibman)
 
   
-## 🚀 About Me
-Ibrahim M. Nasser, a Software Engineer, Usability Analyst, 
-and Machine Learning Researcher.
-
-
-  
 ## 🔗 Links
 [![GS](https://img.shields.io/badge/-Google%20Scholar-blue)](https://scholar.google.com/citations?user=SSCOEdoAAAAJ&hl=en&authuser=2/)
 
